@@ -1,0 +1,1 @@
+core 'core' not found, maybe the core is not registered (hsb::Register)
