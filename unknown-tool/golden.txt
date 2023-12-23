@@ -1,0 +1,1 @@
+hbs::SetTool: core 'my-core', target 'my-target', unknown tool 'xyz', supported tools: 'ghdl', 'vivado'
