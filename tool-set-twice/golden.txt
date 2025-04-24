@@ -1,1 +1,1 @@
-hbs::SeTool: core 'my-core', target 'my-target', can't set tool to 'vivado', tool already set to 'ghdl'
+hbs::SetTool: core 'my-core', target 'my-target', can't set tool to 'vivado', tool already set to 'ghdl'
