@@ -4,9 +4,9 @@ set -e
 
 test_count=0
 
-for dir in $(find . -maxdepth 1 -mindepth 1 -type d | sort);
+for dir in $(find . -maxdepth 2 -mindepth 2 -type d | sort);
 do
-	if [[ $dir == "./.git" ]]; then
+	if [[ $dir == ./.git* ]]; then
 		continue
 	fi
 	echo "$dir"
@@ -14,7 +14,7 @@ do
 	./cmd.sh
 	diff --color output.txt golden.txt
 	rm output.txt
-	cd ..
+	cd - > /dev/null
 	test_count=$(expr $test_count + 1)
 done
 
