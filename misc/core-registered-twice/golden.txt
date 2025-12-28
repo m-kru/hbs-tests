@@ -1,1 +1,1 @@
-hbs::Register: can't register core 'my-core' in /home/mkru/workspace/hbs-tests/misc/core-registered-twice/subdir/core2.hbs, core with the same path already registered in /home/mkru/workspace/hbs-tests/misc/core-registered-twice/core1.hbs
+hbs::Register: can't register core 'my-core' in /home/mkru/data/workspace/hbs-tests/misc/core-registered-twice/subdir/core2.hbs, core with the same path already registered in /home/mkru/data/workspace/hbs-tests/misc/core-registered-twice/core1.hbs
