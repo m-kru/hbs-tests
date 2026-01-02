@@ -1,1 +1,0 @@
-my-core::my-target: hbs::SetTool: unknown tool 'xyz', supported tools: 'ghdl', 'gowin', 'nvc', 'questa', 'vivado-prj' (project mode), 'xsim'
