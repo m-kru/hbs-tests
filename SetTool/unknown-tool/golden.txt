@@ -1,1 +1,1 @@
-hbs::SetTool: core 'my-core', target 'my-target', unknown tool 'xyz', supported tools: 'ghdl', 'gowin', 'nvc', 'vivado-prj' (project mode), 'xsim'
+hbs::SetTool: core 'my-core', target 'my-target', unknown tool 'xyz', supported tools: 'ghdl', 'gowin', 'nvc', 'questa', 'vivado-prj' (project mode), 'xsim'
