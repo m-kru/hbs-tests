@@ -2,6 +2,9 @@
 
 set -e
 
+HBS_TESTS_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+export HBS_TESTS_DIR
+
 test_count=0
 
 for dir in $(find . -maxdepth 2 -mindepth 2 -type d | sort);

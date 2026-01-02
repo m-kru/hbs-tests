@@ -1,1 +1,0 @@
-core::target: hbs::AddFile: can't add file /home/mkru/data/workspace/hbs-tests/AddFile/tool-not-set/abc.vhd, hbs::Tool not set
