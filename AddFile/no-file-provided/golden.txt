@@ -1,1 +1,1 @@
-hbs::AddFile: core::target: no file provided
+core::target: hbs::AddFile: no file provided

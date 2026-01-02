@@ -1,7 +1,6 @@
 namespace eval my-core {
   proc my-target {} {
-    hbs::SetTool "ghdl"
-    hbs::SetTool "vivado-prj"
+    hbs::SetExitSeverity "foo"
   }
   hbs::Register
 }
