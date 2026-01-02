@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 export HBS_TOOL=foo
 ../../../hbs/hbs run my-core::my-target 2> output.txt
 if [[ $? == 1 ]]; then
