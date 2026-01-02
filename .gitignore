@@ -1,1 +1,5 @@
 */output.txt
+
+# Golden files generated automatically
+AddFile/tool-not-set/golden.txt
+misc/core-registered-twice/golden.txt
