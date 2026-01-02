@@ -1,0 +1,1 @@
+core::target: hbs::xsim::addHdlFile: /home/mkru/data/workspace/hbs-tests/SetStd/xsim-invalid-std/abc.vhd: invalid VHDL standard '2005', standards supported by xsim are: '1993', '2008' (default), '2019'
