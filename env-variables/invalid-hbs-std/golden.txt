@@ -1,0 +1,1 @@
+hbs::init: can't set standard from HBS_STD environment variable: invalid VHDL and Verilog/SystemVerilog standard '1000'
